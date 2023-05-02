@@ -1,2 +1,5 @@
 # WGAN
-Implementation for the paper 'Wasserstein GAN'
+Implementation for 'Wasserstein GAN'
+
+Martin Arjovsky, Soumith Chintala, Léon Bottou
+
