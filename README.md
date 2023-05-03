@@ -1,5 +1,6 @@
 # WGAN
-Implementation for 'Wasserstein GAN'
+Implementation for paper ['Wasserstein GAN'](https://arxiv.org/pdf/1701.07875.pdf )
 
-Martin Arjovsky, Soumith Chintala, Léon Bottou
+
+
 
